@@ -14,7 +14,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/LujainBakh/Archiva_PMO',
   },
-  docsRepositoryBase: 'https://github.com/LujainBakh/Archiva_PMO',
+  docsRepositoryBase: 'https://github.com/LujainBakh/Archiva_PMO/blob/main',
   footer: {
     text: 'PMO documentation for © Solutions By 42',
   },
