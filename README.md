@@ -2,7 +2,7 @@
 
 The Archiva documentation website for the Project Management Office (PMO) is built using the Nextra framework to provide clear, structured, and interactive documentation for PMO processes and guidelines. The site offers a sleek interface where users can easily navigate through essential project management documentation.
 
-[![](.github/archivamain.png)]
+![](.github/archivamain.png)
 ![archivamain](/archiva-pmo/.github/archivamain.png)
 
 ## About Nextra
