@@ -11,3 +11,5 @@ Nextra is a modern framework for building static documentation websites. It uses
 ## How to modify pages
 
 Modifying the pages is a relatively easy process, all you need is to follow the following step carefully to ensure all modifications are admitted to the Archiva website. 
+
+
