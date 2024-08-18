@@ -1,21 +1,12 @@
-# Welcome to **Archiva**
+# Welcome to Archivas
 
-Brief description of the project, its purpose, and what problem it solves.
+The Archiva documentation website for the Project Management Office (PMO) is built using the Nextra framework to provide clear, structured, and interactive documentation for PMO processes and guidelines. The site offers a sleek interface where users can easily navigate through essential project management documentation.
 
-## Table of Contents
-(Optional but useful for longer READMEs)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
-## Installation
+## About Nextra
 
-Step-by-step instructions on how to install and set up the project locally.
-```bash
-# Example:
-git clone https://github.com/username/repository.git
-cd repository
-npm install
+Nextra is a modern framework for building static documentation websites. It uses React and Markdown to create clean, interactive, and high-performance documentation with customizable layouts and built-in features like search and navigation.
+
+## How to modify pages
+
+
